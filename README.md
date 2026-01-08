@@ -24,11 +24,6 @@ Category-wise expense summary
 
 Permanent data storage
 
-📂 Project Files
-expense_tracker.py
-expenses.txt
-README.md
-
 ▶️ How to Run
 
 Open terminal / command prompt
