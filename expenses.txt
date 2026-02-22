@@ -1,0 +1,2 @@
+16-05-2006,Food,5000.0,Enjoyed meal at 5star hotel
+16-05-2006,Travel,10000.0,Visited Mount abu
